@@ -10,4 +10,5 @@ int main(){
     int result=cube(num);
     cout<<"Cube of "<<num<<" is "<<result;
     return 0;
+    
 }
